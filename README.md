@@ -2,8 +2,8 @@
 
 ## Author
 
-Jared Harms
-Github: (https://www.github.com/harmsjared)
+Jared Harms <br>
+Github: (https://www.github.com/harmsjared) <br>
 LinkedIn: (https://www.linkedin.com/in/jared-harms-8762071b1/)
 
 ## Web optimization with IndexedDB & Webpack
